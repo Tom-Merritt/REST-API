@@ -1,5 +1,5 @@
 # REST-API
-A simple REST API built with PHP, MYSQL And Javascript. Returns JSON data to the console.
+A simple REST API built with PHP, MYSQL And JavaScript. Returns JSON data to the console.
 
 API Key - zaCELgL.0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlx
 
