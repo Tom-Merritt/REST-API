@@ -4,7 +4,7 @@ A simple REST API built with PHP, MYSQL And JavaScript. Returns JSON data to the
 API Key - zaCELgL.0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlx
 
 SET UP
-  1. Add the config, index and styles files to a root directory.
+  1. Add the config, index and styles files to a new directory.
   2. Import the SQL.
   3. Connect to the DB in the config file.
   4. Load the config file and check for error output.
